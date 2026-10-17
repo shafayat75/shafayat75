@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shafayat Hossain</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shafayat75&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shafayat75?label=Followers&style=flat&logo=github&color=0e75b6" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshafayat75&query=%24.followers&label=Followers&style=flat&logo=github&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshafayat75&query=%24.following&label=Following&style=flat&logo=github&color=0e75b6" alt="Following" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshafayat75&query=%24.public_repos&label=Repos&style=flat&logo=github&color=0e75b6" alt="Repos" />
 </p>
 
 ---
@@ -86,7 +87,7 @@
 ### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafayat75&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafayat75&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&area_color=0e75b6&hide_border=true&title_color=0e75b6" alt="Contribution Activity Graph" />
 </p>
 
 ### 🟩 Commit Graph
@@ -99,7 +100,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shafayat75&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shafayat75&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
