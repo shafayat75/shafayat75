@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shafayat Hossain</h1>
 <p align="center">
   <a href="https://github.com/shafayat75">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=00D8FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=MERN+Full+Stack+Developer" alt="MERN Full Stack Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=00D8FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=MERN+Full+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+Web+Apps+That+Solve+Real+Problems" alt="MERN Full Stack Developer" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshafayat75&query=%24.followers&label=Followers&style=flat&logo=github&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-2ea44f?style=flat&logo=github&logoColor=white" alt="Open to Collaborate" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshafayat75&query=%24.following&label=Following&style=flat&logo=github&color=0e75b6" alt="Following" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshafayat75&query=%24.public_repos&label=Repos&style=flat&logo=github&color=0e75b6" alt="Repos" />
 </p>
